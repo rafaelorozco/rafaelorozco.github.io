@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rafael Orozco"
 title_separator          : "-"
 name                     : &name "Rafael Orozco"
-description              : &description "personal description"
+description              : &description "Imaging Researcher"
 url                      : https://rafaelorozco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rafaelorozco/rafaelorozco.github.io"
@@ -22,17 +22,17 @@ repository               : "rafaelorozco/rafaelorozco.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rafael Orozco"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Researcher in imaging with uncertainty and machine learning "
+  location         : "Atlanta, GA USA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
   email            : "rorozco@gatech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Ki0ta9QAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
