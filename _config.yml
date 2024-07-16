@@ -21,7 +21,7 @@ repository               : "rafaelorozco/rafaelorozco.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_t.png"
+  avatar           : "profile.jpg"
   name             : "Rafael Orozco"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in imaging with uncertainty and machine learning "
