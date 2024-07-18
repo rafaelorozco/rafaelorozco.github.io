@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Email: rorozco@gatech.edu
 
-I am a final semester PhD student and in the job market for Spring 2025.
+I am a final semester PhD student and in the job market for Spring 2025. 
 
 My research is in generative machine learning for uncertainty quantification of inverse problems. My main research contributions are in implementing and testing invertible networks that learn to sample from the Bayesian posterior of realistic inverse problems. 
 
