@@ -13,6 +13,6 @@ My research is in generative machine learning for uncertainty quantification of 
 
 I explore seismic imaging and medical imaging modalities (MRI, CT, Ultrasound, Photoacoustic) but generally focus on modalities governed by computationally expensive partial differential equations (PDEs). 
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Medical Imaging with Uncertainty Quantification](/images/uq_ct.jpeg)
 
 These modalities are best suited for physics hybrid frameworks that are accelerated by machine learning but informed by domain physics knowledge in the form of PDE simulations. I primarily consider myself an engineer since my passion is in bringing these novel techniques to real world applications.
