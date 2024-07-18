@@ -33,6 +33,10 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Ki0ta9QAAAAJ&hl=en"
+
+  linkedin         : "https://www.linkedin.com/in/rafael42/"
+  github           : "rafaelorozco"
+    
   orcid            : "https://orcid.org/0000-0003-0917-2442"
 
 
@@ -40,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "rafaelorozco"
+  
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
