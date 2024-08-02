@@ -17,3 +17,8 @@ I explore seismic imaging and medical imaging modalities (MRI, CT, Ultrasound, P
 ![Medical Imaging with Uncertainty Quantification](/images/uq_ct.jpeg)
 
 These modalities are best suited for physics hybrid frameworks that are accelerated by machine learning but informed by domain physics knowledge in the form of PDE simulations. I primarily consider myself an engineer since my passion is in bringing these novel techniques to real world applications.
+
+
+### Recent News
+
+* June, 2024: [InvertibleNetworks.jl: A Julia package for scalable normalizing flows](https://joss.theoj.org/papers/10.21105/joss.06554) was published in Journal of Open Source Software!
