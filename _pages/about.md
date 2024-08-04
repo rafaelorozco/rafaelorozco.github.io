@@ -18,7 +18,7 @@ I explore seismic imaging and medical imaging modalities (MRI, CT, Ultrasound, P
 
 These modalities are best suited for physics hybrid frameworks that are accelerated by machine learning but informed by domain physics knowledge in the form of PDE simulations. I primarily consider myself an engineer since my passion is in bringing these novel techniques to real world applications.
 
-![Medical Imaging with Wave Equation](/images/skull_2d_wave.mp4)
+![MRI gnerative posterior sampling](/images/mri_post.gif)
 
 ### Recent News
 
