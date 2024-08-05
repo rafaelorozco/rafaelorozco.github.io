@@ -10,9 +10,13 @@ Email: rorozco@gatech.edu
 
 I am a final semester PhD student and in the job market for Spring 2025. 
 
-My research is in generative machine learning for uncertainty quantification of inverse problems. My main research contributions are in implementing and testing invertible networks that learn to sample from the Bayesian posterior of realistic inverse problems. 
+My research is in generative machine learning for uncertainty quantification of inverse problems. My main research contributions are in implementing and testing generative networks that learn to sample from the Bayesian posterior of realistic inverse problems. 
 
-I explore seismic imaging and medical imaging modalities (MRI, CT, Ultrasound, Photoacoustic) but generally focus on modalities governed by computationally expensive partial differential equations (PDEs). 
+I explore seismic imaging... 
+
+<img src="/images/rtm.gif" width="200">
+
+...and medical imaging modalities (MRI, CT, Ultrasound, Photoacoustic) but generally focus on modalities governed by computationally expensive partial differential equations (PDEs). 
 
 ![Medical Imaging with Uncertainty Quantification](/images/uq_ct.jpeg)
 
