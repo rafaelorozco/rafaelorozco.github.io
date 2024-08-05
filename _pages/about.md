@@ -15,8 +15,8 @@ My research is in generative machine learning for uncertainty quantification of 
 I explore seismic imaging... 
 
 <p float="left">
-  <img src="/images/rtm.gif" width="300">
-  <img src="/images/3d_seismic.png" width="600">
+  <img src="/images/rtm.gif" width="250">
+  <img src="/images/3d_seismic.png" width="550">
 </p>
 
 
