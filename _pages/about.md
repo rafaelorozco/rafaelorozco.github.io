@@ -14,9 +14,13 @@ My research is in generative machine learning for uncertainty quantification of 
 
 I explore seismic imaging... 
 
-<img src="/images/rtm.gif" width="300">
+<p float="left">
+  <img src="/images/rtm.gif" width="300">
+  <img src="/images/3d_seismic.png" width="600">
+</p>
 
-<img src="/images/3d_seismic.png" width="300">
+
+
 
 ...and medical imaging modalities (MRI, CT, Ultrasound, Photoacoustic) but generally focus on modalities governed by computationally expensive partial differential equations (PDEs). 
 
