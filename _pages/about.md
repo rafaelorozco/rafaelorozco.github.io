@@ -31,7 +31,7 @@ but generally focus on modalities governed by computationally expensive partial 
 
 ### Recent News
 
-* August, 2024: First and co-author of various posters/talks at IMAGE 2024! Including [“BEACON: Bayesian Experimental design Acceleration with Conditional Normalizing flows - a case study in optimal monitor well placement for CO2 sequestration”]([https://joss.theoj.org/papers/10.21105/joss.06554](https://arxiv.org/pdf/2404.00075)) among others. 
+* August, 2024: First and co-author of various posters/talks at IMAGE 2024! Including [“BEACON: Bayesian Experimental design Acceleration with Conditional Normalizing flows - a case study in optimal monitor well placement for CO2 sequestration”](https://arxiv.org/pdf/2404.00075) among others. 
 
 * June, 2024: [InvertibleNetworks.jl: A Julia package for scalable normalizing flows](https://joss.theoj.org/papers/10.21105/joss.06554) was published in Journal of Open Source Software!
 
