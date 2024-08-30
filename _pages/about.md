@@ -35,4 +35,4 @@ but generally focus on modalities governed by computationally expensive partial 
 
 * June, 2024: [InvertibleNetworks.jl: A Julia package for scalable normalizing flows](https://joss.theoj.org/papers/10.21105/joss.06554) was published in Journal of Open Source Software!
 
-* May, 2024: Succesfully presented my PhD Proposal, am now a PhD candidate!
+* May, 2024: Succesfully presented my PhD Proposal, now a PhD candidate!
