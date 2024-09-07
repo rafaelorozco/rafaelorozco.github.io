@@ -37,9 +37,9 @@ Full waveform inversion with **ultrasound** for intracranial imaging
 [ASPIRE: Iterative Amortized Posterior Inference for Bayesian Inverse Problems](https://arxiv.org/abs/2405.05398)
 
 and optimal experimental design for accelerated **Magnetic Resonance Imaging**
-[Probabilistic Bayesian optimal experimental design using conditional normalizing flows](https://arxiv.org/pdf/2402.18337)
 
 <img src="/images/mri_post.gif" width="200">
+[Probabilistic Bayesian optimal experimental design using conditional normalizing flows](https://arxiv.org/pdf/2402.18337)
 
 but generally I focus on modalities governed by computationally expensive partial differential equations (PDEs).  These modalities are best suited for physics hybrid frameworks that are accelerated by machine learning but informed by traditional domain physics knowledge in the form of PDE simulations. I primarily consider myself an engineer since my passion is in scaling these novel techniques to real world applications.
 
