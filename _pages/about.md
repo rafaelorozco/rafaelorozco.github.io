@@ -32,9 +32,16 @@ seismic imaging for carbon dioxide sequestration and monitoring to mitigate clim
 
 **Photoacoustic imaging**
 
+![Medical Imaging with Uncertainty Quantification](/images/photoacoustic.png)
+
 [Photoacoustic imaging with conditional priors from normalizing flows](https://openreview.net/forum?id=woi1OTvROO1)
 
 Full waveform inversion with **ultrasound** for intracranial imaging
+<p float="left">
+  <img src="/images/3d_brain_wave.gif" width="200">
+  <img src="/images/uq_brain.png" width="500">
+</p>
+
 [ASPIRE: Iterative Amortized Posterior Inference for Bayesian Inverse Problems](https://arxiv.org/abs/2405.05398)
 
 and optimal experimental design for accelerated **Magnetic Resonance Imaging**
