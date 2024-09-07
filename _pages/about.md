@@ -14,13 +14,14 @@ My research is in machine learning for acceleration and uncertainty quantificati
 
 seismic imaging for carbon dioxide sequestration and monitoring to mitigate climate change... 
 
-[“BEACON: Bayesian Experimental design Acceleration with Conditional Normalizing flows - a case study in optimal monitor well placement for CO2 sequestration”](https://arxiv.org/pdf/2404.00075)
-[“Inference of CO2 flow patterns -- a feasibility study”](https://arxiv.org/pdf/2404.00075)
-
 <p float="left">
   <img src="/images/rtm.gif" width="200">
   <img src="/images/3d_seismic.png" width="500">
 </p>
+
+[“BEACON: Bayesian Experimental design Acceleration with Conditional Normalizing flows - a case study in optimal monitor well placement for CO2 sequestration”](https://arxiv.org/pdf/2404.00075)
+
+[“Inference of CO2 flow patterns -- a feasibility study”](https://arxiv.org/pdf/2404.00075)
 
 
 ...and various medical imaging modalities including **X-ray CT**  
@@ -41,7 +42,7 @@ and optimal experimental design for accelerated **Magnetic Resonance Imaging**
 <img src="/images/mri_post.gif" width="200">
 [Probabilistic Bayesian optimal experimental design using conditional normalizing flows](https://arxiv.org/pdf/2402.18337)
 
-but generally I focus on modalities governed by computationally expensive partial differential equations (PDEs).  These modalities are best suited for physics hybrid frameworks that are accelerated by machine learning but informed by traditional domain physics knowledge in the form of PDE simulations. I primarily consider myself an engineer since my passion is in scaling these novel techniques to real world applications.
+Generally, I focus on imaging governed by computationally expensive partial differential equations (PDEs).  These modalities are best suited for physics hybrid frameworks that are accelerated by machine learning but informed by traditional domain physics knowledge in the form of PDE simulations. I primarily consider myself an engineer since my passion is in scaling these novel techniques to real world applications.
 
 
 ### Recent News
