@@ -28,13 +28,13 @@ seismic imaging for carbon dioxide sequestration and monitoring to mitigate clim
 
 ![Medical Imaging with Uncertainty Quantification](/images/uq_ct.jpeg)
 
-[Adjoint operators enable fast and amortized machine learning based Bayesian uncertainty quantification](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/124641L/Adjoint-operators-enable-fast-and-amortized-machine-learning-based-Bayesian/10.1117/12.2651691.full#_=_)
+["Adjoint operators enable fast and amortized machine learning based Bayesian uncertainty quantification"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/124641L/Adjoint-operators-enable-fast-and-amortized-machine-learning-based-Bayesian/10.1117/12.2651691.full#_=_)
 
 **Photoacoustic imaging**
 
 ![Medical Imaging with Uncertainty Quantification](/images/photoacoustic.png)
 
-[Photoacoustic imaging with conditional priors from normalizing flows](https://openreview.net/forum?id=woi1OTvROO1)
+["Photoacoustic imaging with conditional priors from normalizing flows"](https://openreview.net/forum?id=woi1OTvROO1)
 
 Full waveform inversion with **ultrasound** for intracranial imaging
 <p float="left">
@@ -42,12 +42,12 @@ Full waveform inversion with **ultrasound** for intracranial imaging
   <img src="/images/uq_brain.png" width="500">
 </p>
 
-[ASPIRE: Iterative Amortized Posterior Inference for Bayesian Inverse Problems](https://arxiv.org/abs/2405.05398)
+["ASPIRE: Iterative Amortized Posterior Inference for Bayesian Inverse Problems"](https://arxiv.org/abs/2405.05398)
 
 and optimal experimental design for accelerated **Magnetic Resonance Imaging**
 
 <img src="/images/mri_post.gif" width="200">
-[Probabilistic Bayesian optimal experimental design using conditional normalizing flows](https://arxiv.org/pdf/2402.18337)
+["Probabilistic Bayesian optimal experimental design using conditional normalizing flows"](https://arxiv.org/pdf/2402.18337)
 
 Generally, I focus on imaging governed by computationally expensive partial differential equations (PDEs).  These modalities are best suited for physics hybrid frameworks that are accelerated by machine learning but informed by traditional domain physics knowledge in the form of PDE simulations. I primarily consider myself an engineer since my passion is in scaling these novel techniques to real world applications.
 
