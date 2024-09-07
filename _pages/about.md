@@ -21,7 +21,7 @@ seismic imaging for carbon dioxide sequestration and monitoring to mitigate clim
 
 [“BEACON: Bayesian Experimental design Acceleration with Conditional Normalizing flows - a case study in optimal monitor well placement for CO2 sequestration”](https://arxiv.org/pdf/2404.00075)
 
-[“Inference of CO2 flow patterns -- a feasibility study”](https://arxiv.org/pdf/2404.00075)
+[“Inference of CO2 flow patterns -- a feasibility study”](https://arxiv.org/abs/2311.00290)
 
 
 ...and various medical imaging modalities including **X-ray CT**  
