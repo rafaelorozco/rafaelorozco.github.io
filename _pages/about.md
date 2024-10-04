@@ -55,6 +55,11 @@ Generally, I focus on imaging governed by computationally expensive partial diff
 
 ### Recent News
 
+* October, 2024: Submitted our first paper of our monitoring system for CO2 sequestraion [AN UNCERTAINTY-AWARE DIGITAL SHADOW FOR
+UNDERGROUND MULTIMODAL CO2 STORAGE MONITORING](https://arxiv.org/pdf/2410.01218v1).
+
+* September, 2024: Presented various technical aspects of our CO2 sequestration digital twin at the [Gatech Mathematics and Applications Portal (MAP) seminar](https://sites.gatech.edu/gtmap/).
+  
 * August, 2024: First and co-author of various posters/talks at IMAGE 2024! Including [“BEACON: Bayesian Experimental design Acceleration with Conditional Normalizing flows - a case study in optimal monitor well placement for CO2 sequestration”](https://arxiv.org/pdf/2404.00075) among others. 
 
 * June, 2024: [InvertibleNetworks.jl: A Julia package for scalable normalizing flows](https://joss.theoj.org/papers/10.21105/joss.06554) was published in Journal of Open Source Software!
