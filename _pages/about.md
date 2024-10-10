@@ -12,12 +12,14 @@ I am a PhD student at the [Seismic Laboratory Imaging and Modeling ](https://sli
 
 My research is in machine learning for acceleration and uncertainty quantification of image reconstruction. My main research contributions are in implementing generative models that learn to sample from the Bayesian posterior of realistic high-dimensional imaging problems. My main applications are:
 
-seismic imaging for carbon dioxide sequestration and monitoring to mitigate climate change... 
+**seismic imaging** and **digital twin data assimilation** for monitoring of carbon dioxide sequestration to mitigate climate change... 
 
 <p float="left">
   <img src="/images/rtm.gif" width="200">
   <img src="/images/3d_seismic.png" width="500">
 </p>
+
+[AN UNCERTAINTY-AWARE DIGITAL SHADOW FOR UNDERGROUND MULTIMODAL CO2 STORAGE MONITORING](https://arxiv.org/pdf/2410.01218v1)
 
 [“BEACON: Bayesian Experimental design Acceleration with Conditional Normalizing flows - a case study in optimal monitor well placement for CO2 sequestration”](https://arxiv.org/pdf/2404.00075)
 
