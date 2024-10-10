@@ -10,7 +10,9 @@ Email: rorozco@gatech.edu
 
 I am a PhD candidate at the [Seismic Laboratory Imaging and Modeling ](https://slim.gatech.edu/) and in the job market for Spring 2025. 
 
-My research is in machine learning for acceleration and uncertainty quantification of image reconstruction. My main research contributions are in implementing generative models that learn to sample from the Bayesian posterior of realistic high-dimensional imaging problems. My main applications are:
+My research is in machine learning for acceleration and uncertainty quantification of image reconstruction. During my PhD research, I implemented generative models that learn to sample from the Bayesian posterior of realistic high-dimensional imaging problems. My engineering mindset drives me to bridge the gap between innovative algorithms and practical applications, making these solutions impactful for industry needs.
+
+My main applications are:
 
 **seismic imaging** and **digital twin data assimilation** for monitoring of carbon dioxide sequestration to mitigate climate change... 
 
