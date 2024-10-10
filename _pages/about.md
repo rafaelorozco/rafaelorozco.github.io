@@ -8,7 +8,7 @@ redirect_from:
 ---
 Email: rorozco@gatech.edu
 
-I am a PhD student at the [Seismic Laboratory Imaging and Modeling ](https://slim.gatech.edu/) and in the job market for Spring 2025. 
+I am a PhD candidate at the [Seismic Laboratory Imaging and Modeling ](https://slim.gatech.edu/) and in the job market for Spring 2025. 
 
 My research is in machine learning for acceleration and uncertainty quantification of image reconstruction. My main research contributions are in implementing generative models that learn to sample from the Bayesian posterior of realistic high-dimensional imaging problems. My main applications are:
 
