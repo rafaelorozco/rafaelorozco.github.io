@@ -14,7 +14,7 @@ My research is in machine learning for acceleration and uncertainty quantificati
 
 My main applications are:
 
-**seismic imaging** and **digital twin data assimilation** for monitoring of carbon dioxide sequestration to mitigate climate change... 
+**seismic imaging** and **digital twin data assimilation** for monitoring of carbon dioxide (CO2) sequestration to mitigate climate change... 
 
 <p float="left">
   <img src="/images/rtm.gif" width="200">
