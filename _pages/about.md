@@ -8,7 +8,7 @@ redirect_from:
 ---
 Email: rorozco@gatech.edu
 
-I am a PhD candidate at the [Seismic Laboratory Imaging and Modeling ](https://slim.gatech.edu/) and in the job market for Spring 2025. 
+I received by Phd from the [Seismic Laboratory Imaging and Modeling ](https://slim.gatech.edu/) and am working at the Subsurface Innovation Lab in Oxy.  
 
 My research is in machine learning for acceleration and uncertainty quantification of image reconstruction. During my PhD research, I implemented generative models that learn to sample from the Bayesian posterior of realistic high-dimensional imaging problems. My engineering mindset drives me to bridge the gap between innovative algorithms and practical applications, making these solutions impactful for industry needs.
 
@@ -58,6 +58,8 @@ Generally, I focus on imaging governed by computationally expensive partial diff
 
 
 ### Recent News
+
+* November, 2024: Defended my thesis [GENERATIVE MODELS FOR UNCERTAINTY QUANTIFICATION OF MEDICAL AND SEISMIC IMAGING](https://slim.gatech.edu/content/generative-models-uncertainty-quantification-medical-and-seismic-imaging).
 
 * October, 2024: Submitted our first paper of our monitoring system for CO2 sequestraion [AN UNCERTAINTY-AWARE DIGITAL SHADOW FOR
 UNDERGROUND MULTIMODAL CO2 STORAGE MONITORING](https://arxiv.org/pdf/2410.01218v1).
