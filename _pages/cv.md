@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Click to View My Curriculum Vitae in PDF](../files/resume_2024.pdf)
+[Click to View My Curriculum Vitae in PDF](../files/resume_2025.pdf)
 
 
 {% include base_path %}
