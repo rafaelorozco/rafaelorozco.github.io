@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email: rorozco@gatech.edu
+Email: rao9787@gmail.com
 
 I received by Phd from the [Seismic Laboratory Imaging and Modeling ](https://slim.gatech.edu/) and am working at the Subsurface Innovation Lab in Oxy.  
 
